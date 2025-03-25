@@ -1,4 +1,4 @@
-package sihyuntest;
+package sihyuntest3;
 
 public class test {
     public static void main(String[] args) {
