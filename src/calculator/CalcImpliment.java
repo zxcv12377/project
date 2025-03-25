@@ -31,6 +31,7 @@ public class CalcImpliment extends Calcbasic {
                 case "-":
                     calcbasic.subtract();
                     System.out.printf("%d - %d = %d", calcbasic.fnum, calcbasic.lnum, calcbasic.empnum);
+                    run = false;
                     break;
                 case "*":
                     calcbasic.multiply();
